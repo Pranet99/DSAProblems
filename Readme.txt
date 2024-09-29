@@ -1,0 +1,1 @@
+Hi this is my first repo to learn dsa. I am starting my jopurney I will push all the topics I read and solved problems in the repo
