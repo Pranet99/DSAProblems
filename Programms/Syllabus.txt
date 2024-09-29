@@ -1,0 +1,70 @@
+3-Month Learning Plan (1 Hour Daily)
+Phase 1: Foundational Concepts (Weeks 1-4)
+We'll focus on fundamental data structures like arrays, linked lists, stacks, and queues. Each day will include 20-30 minutes of concept study and 30-40 minutes of problem-solving.
+
+Week 1: Introduction & Arrays
+
+Day 1: Introduction to Problem-Solving, Problem-Solving Approach
+Day 2-4: Arrays – Basics, Traversals, Insertion, Deletion, Searching
+Day 5-7: Practice Problems (e.g., Maximum Subarray, Rotate Array)
+Week 2: Arrays & Two-Pointer/Sliding Window Technique
+
+Day 1-2: Sliding Window Problems (e.g., Longest Substring Without Repeating Characters)
+Day 3-4: Two-pointer Problems (e.g., Container with Most Water)
+Day 5-7: Array Interview Problems + Quiz
+Week 3: Linked Lists
+
+Day 1-2: Singly Linked List (Insertion, Deletion)
+Day 3-4: Doubly Linked List, Circular Linked List
+Day 5-7: Linked List Problems (e.g., Reverse Linked List, Detect Cycle)
+Week 4: Stacks and Queues
+
+Day 1-2: Stacks (Infix, Postfix Expressions)
+Day 3-4: Queues (Priority Queue, Circular Queue)
+Day 5-7: Practice Problems + Quiz (e.g., Implement Stack using Queue)
+Phase 2: Intermediate Concepts (Weeks 5-8)
+We’ll dive into more complex structures like trees, graphs, and hashing.
+
+Week 5: Trees – Binary Trees & Traversals
+
+Day 1-2: Binary Trees (Preorder, Inorder, Postorder Traversal)
+Day 3-4: Binary Search Trees (BST) – Insertion, Deletion
+Day 5-7: Tree Problems (e.g., Lowest Common Ancestor)
+Week 6: Advanced Trees (AVL Trees, Heaps)
+
+Day 1-2: AVL Trees (Self-balancing)
+Day 3-4: Heaps (Min-Heap, Max-Heap)
+Day 5-7: Practice Problems (Heap Sort, Priority Queue)
+Week 7: Graphs – BFS & DFS
+
+Day 1-2: Graph Representation (Adjacency List/Matrix)
+Day 3-4: Graph Traversals (BFS, DFS)
+Day 5-7: Graph Problems (e.g., Detect Cycle in Graph, Dijkstra's Algorithm)
+Week 8: Hashing
+
+Day 1-2: Hash Tables – Basics and Collisions
+Day 3-4: Hashing Techniques
+Day 5-7: Practice Problems (e.g., Two Sum, Subarray Sum Equals K)
+Phase 3: Advanced Concepts & Problem-Solving (Weeks 9-12)
+We’ll tackle dynamic programming, greedy algorithms, and advanced problem-solving techniques.
+
+Week 9: Dynamic Programming (DP) – Part 1
+
+Day 1-2: Introduction to DP (Memoization vs Tabulation)
+Day 3-4: Classic DP Problems (e.g., Fibonacci, Coin Change Problem)
+Day 5-7: DP Problems (Knapsack Problem)
+Week 10: Dynamic Programming (DP) – Part 2
+
+Day 1-2: Longest Common Subsequence
+Day 3-4: DP in Strings (Palindrome Partitioning, Edit Distance)
+Day 5-7: DP Interview Problems + Quiz
+Week 11: Greedy Algorithms
+
+Day 1-2: Interval Scheduling Problem
+Day 3-4: Huffman Encoding
+Day 5-7: Practice Problems (Activity Selection, Greedy Algorithms)
+Week 12: Divide and Conquer, Backtracking
+
+Day 1-2: Divide and Conquer (Merge Sort, Quick Sort)
+Day 3-4: Backtracking (Sudoku Solver, N-Queens Problem)
+Day 5-7: Advanced Problems + Final Quiz

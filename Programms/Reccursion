@@ -1,0 +1,27 @@
+What is Recursion?
+Recursion is a technique in which a function calls itself in order to solve smaller instances of the same problem. It breaks down complex problems into simpler sub-problems until it reaches a base case.
+
+Key Concepts of Recursion:
+    Base Case: The condition where the recursion stops. Without a base case, the recursion would continue indefinitely, leading to a stack overflow error.
+    Recursive Case: The part of the function where the function calls itself with a smaller or simpler problem.
+
+
+
+    Recursive vs Iterative Approaches
+Many problems can be solved either using recursion or using loops (iteration). Let’s compare the two approaches:
+
+Recursion:
+Pros:
+Elegant and easier to understand when the problem is naturally recursive (like trees, graphs, etc.).
+Useful when breaking the problem into smaller sub-problems is a good strategy.
+Cons:
+Can lead to excessive function calls, which increase memory usage (stack space).
+Not always efficient (e.g., Fibonacci without memoization has an exponential time complexity).
+Iteration:
+Pros:
+
+More space-efficient (no function call overhead).
+Better performance in some cases (like the Fibonacci sequence).
+Cons:
+
+May require more complex logic to handle problems that are easier to express with recursion.
