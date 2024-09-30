@@ -1,4 +1,5 @@
-public class Fibbinocci{
+package Recurrsion;
+public class Factorial{
 
   public static int cal(int i){
     if(i==1 || i==0){

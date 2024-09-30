@@ -1,3 +1,4 @@
+package Recurrsion;
 public class SumOfNaturalNumber {
     public static int sum(int N){
       
